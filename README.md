@@ -1,2 +1,2 @@
 # VrLivePapaerDemo
-Vr动态壁纸
+基于GoogleVr实现的Vr动态壁纸
